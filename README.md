@@ -29,3 +29,7 @@
 - **SHAP** - інтерпретація моделей
 - **Matplotlib, Seaborn** - візуалізація
 - **Hyperopt** - оптимізація гіперпараметрів
+
+## **Порівняння використанихи моделей**
+<img width="1139" height="294" alt="image" src="https://github.com/user-attachments/assets/967baadb-fd29-4dc7-8eab-d6faa9bec6f4" />
+
